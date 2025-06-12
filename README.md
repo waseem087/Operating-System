@@ -45,3 +45,6 @@ AirControlX simulates an intelligent and automated airspace management system. T
 - Linux (or WSL)
 - Make
 
+####  Build
+bash
+make all
