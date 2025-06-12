@@ -51,11 +51,16 @@ make all
 ./aircontrolx
 
 ### Sample Output(CLI)
-[INFO] Flight AB123 (Passenger) requesting Landing.
-[ALLOC] Runway 1 allocated to AB123.
-[MONITOR] Current Queue Status: 3 Arrivals | 2 Departures
-[ALERT] Emergency! Flight QR999 requesting priority landing.
-[PAYMENT] Flight TG782 paid $5200 successfully.
 
 ![image](https://github.com/user-attachments/assets/81d538b2-95b9-45dc-9cc3-fed26defac47)
+
+##  Acknowledgements
+
+•	Operating Systems Faculty – For guidance on threading, synchronization, and IPC  
+•	POSIX Threads (pthreads) – For enabling multithreaded simulation  
+•	GNU GCC Compiler – For building and testing the system  
+•	Linux Terminal Utilities – For process and signal handling  
+•	C Programming Community – For invaluable resources and best practices  
+•	GitHub – For version control and collaborative development  
+•	OpenAI (ChatGPT) – For technical assistance and debugging support  
 
