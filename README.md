@@ -10,6 +10,7 @@ AirControlX is a multithreaded, simulation-based Air Traffic Control System buil
 •	Features
 •	How to Run
 •	Sample Output(CLI)
+•	Acknowledgements
 
 
 
