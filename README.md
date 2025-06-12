@@ -15,7 +15,7 @@ AirControlX is a multithreaded, simulation-based Air Traffic Control System buil
 
 
 
-##  Project Overview
+###  Project Overview
 AirControlX simulates an intelligent and automated airspace management system. The core system comprises multiple flight threads requesting landings or takeoffs, a central ATC controller assigning runways, and subsystems managing events like emergencies and violations.
 
 ### Core Concepts Used
@@ -26,7 +26,7 @@ AirControlX simulates an intelligent and automated airspace management system. T
 - Event-driven simulation
 - CLI-based interaction
 
-Features
+### Key Features
 1)	Flight Creation & Entry: Batch mode & real-time input
 2)	Runway Management: Separate queues for arrivals and departures with priority handling
 3)	Violations & Faults: Speed checks, brake failures, emergency landings
@@ -38,9 +38,9 @@ Features
     d)	Simulated Payment System
 6)	Real-Time Monitoring: Live status updates and queue logs
 
-## How to Run
+### How to Run
 
-###  Prerequisites
+#### Prerequisites
 - GCC Compiler
 - Linux (or WSL)
 - Make
