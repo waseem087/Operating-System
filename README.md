@@ -9,9 +9,7 @@ AirControlX is a multithreaded, simulation-based Air Traffic Control System buil
 •	Core Concepts Used
 •	Features
 •	How to Run
-•	Demo & Submission
-•	Developer
-•	License
+•	Sample Output(CLI)
 
 
 
@@ -51,4 +49,11 @@ make all
 
 #### Run simulation
 ./aircontrolx
+
+### Sample Output(CLI)
+[INFO] Flight AB123 (Passenger) requesting Landing.
+[ALLOC] Runway 1 allocated to AB123.
+[MONITOR] Current Queue Status: 3 Arrivals | 2 Departures
+[ALERT] Emergency! Flight QR999 requesting priority landing.
+[PAYMENT] Flight TG782 paid $5200 successfully.
 
