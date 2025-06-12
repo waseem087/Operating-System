@@ -5,3 +5,11 @@ AirControlX is a multithreaded, simulation-based Air Traffic Control System buil
 
 ##  Project Overview
 AirControlX simulates an intelligent and automated airspace management system. The core system comprises multiple flight threads requesting landings or takeoffs, a central ATC controller assigning runways, and subsystems managing events like emergencies and violations.
+
+### Core Concepts Used
+- Multithreading (`pthread`)
+- Mutexes and semaphores
+- Priority scheduling
+- Process management and IPC
+- Event-driven simulation
+- CLI-based interaction
