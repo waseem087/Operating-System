@@ -7,8 +7,6 @@ AirControlX is a multithreaded, simulation-based Air Traffic Control System buil
 
 •	Project Overview
 •	Core Concepts Used
-•	Project Structure
-•	How to Run
 •	Features
 •	Sample Output (CLI)
 •	Demo & Submission
@@ -27,3 +25,15 @@ AirControlX simulates an intelligent and automated airspace management system. T
 - Process management and IPC
 - Event-driven simulation
 - CLI-based interaction
+
+Features
+1)	Flight Creation & Entry: Batch mode & real-time input
+2)	Runway Management: Separate queues for arrivals and departures with priority handling
+3)	Violations & Faults: Speed checks, brake failures, emergency landings
+4)	Dynamic Scheduling: SJF/SRTF/RR-based flight handling
+5)	Subsystems Integration:
+    a)	ATC Controller
+    b)	Airline Portal
+    c)	AVN Coordination
+    d)	Simulated Payment System
+6)	Real-Time Monitoring: Live status updates and queue logs
