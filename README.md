@@ -48,3 +48,7 @@ AirControlX simulates an intelligent and automated airspace management system. T
 ####  Build
 bash
 make all
+
+#### Run simulation
+./aircontrolx
+
