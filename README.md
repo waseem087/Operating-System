@@ -8,7 +8,7 @@ AirControlX is a multithreaded, simulation-based Air Traffic Control System buil
 •	Project Overview
 •	Core Concepts Used
 •	Features
-•	Sample Output (CLI)
+•	How to Run
 •	Demo & Submission
 •	Developer
 •	License
@@ -37,3 +37,11 @@ Features
     c)	AVN Coordination
     d)	Simulated Payment System
 6)	Real-Time Monitoring: Live status updates and queue logs
+
+## How to Run
+
+###  Prerequisites
+- GCC Compiler
+- Linux (or WSL)
+- Make
+
